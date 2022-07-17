@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+flask = "*"
+tweepy = "*"
+numpy = "*"
+pandas = "*"
+emoji = "*"
+google-api-python-client = "*"
+youtube-transcript-api = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
